@@ -1,0 +1,198 @@
+{
+  "mapping": {
+    "product": "controlPanel",
+    "langage": "de",
+    "generationDate": "10_17_2019",
+    "version": "prod",
+    "entry": [
+     {
+        "id": "cp_overview",
+        "title": "Über Control Panel",
+        "description": "Die Control Panel Homepage bietet Zugriff auf alle Aktionen, die Sie in Ihren Campaign Instanzen ausführen können.",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/de/campaign/kb/control-panel-overview.html",
+            "title": "Erfahren Sie mehr über Control Panel"
+          },
+          {
+            "url": "https://helpx.adobe.com/de/campaign/kb/control-panel-access.html",
+            "title": "Erfahren Sie mehr über die Verwaltung von Genehmigungen."
+          }
+        ]
+      },
+      {
+        "id": "cp_storage",
+        "title": "Über Speicherkapazität",
+        "description": "In diesem Tab finden Sie Informationen zur Speicherkapazität und zur Nutzung Ihrer SFTP-Server. Nur SFTP-Server, zu denen Sie Zugriff haben, werden angezeigt. Kontaktieren Sie Ihren Administrator, um Zugriff auf weitere SFTP-Server zu erhalten.",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/de/campaign/kb/control-panel-sftp.html#SFTPSpeicherverwaltung",
+            "title": "Erfahren Sie mehr über die Verwaltung von SFTP-Speichern."
+          },
+          {
+            "url": "https://images-tv.adobe.com/mpcv3/8a977e03-d76c-44d3-853c-95d0b799c870_1560205338.1920x1080at3000_h264.mp4",
+            "title": "Sehen Sie sich das Demo-Video an.",
+            "contentType": "video/mp4"
+          }
+        ]
+      },
+      {
+        "id": "cp_ip_whitelist",
+        "title": "Über IP-Whitelisting",
+        "description": "In diesem Tab können Sie IP-Bereiche auf die Whitelist setzten, um eine Verbindung zu Ihren SFTP-Servern herzustellen. Nur SFTP-Server, zu denen Sie Zugriff haben, werden angezeigt. Kontaktieren Sie Ihren Administrator, um Zugriff auf weitere SFTP-Server zu erhalten.",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/de/campaign/kb/control-panel-sftp.html#IPBereicheaufdieWhitelistsetzen",
+            "title": "Erfahren Sie mehr zum IP-Whitelisting, um Zugriff auf SFTP-Server zu gewährleisten."
+          },
+          {
+            "url": "https://images-tv.adobe.com/mpcv3/8a977e03-d76c-44d3-853c-95d0b799c870_1560205338.1920x1080at3000_h264.mp4#t=98",
+            "title": "Sehen Sie sich das Demo-Video an.",
+            "contentType": "video/mp4"
+          }
+        ]
+      },
+      {
+        "id": "cp_key_management",
+        "title": "Über die Verwaltung von Schlüsseln",
+        "description": "In diesem Tab können Sie Ihre öffentlichen Schlüssel verwalten.",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/de/campaign/kb/control-panel-sftp.html#Schl%C3%BCsselverwaltung",
+            "title": "Erfahren Sie mehr über die Verwaltung öffentlicher Schlüssel."
+          },
+          {
+            "url": "https://images-tv.adobe.com/mpcv3/8a977e03-d76c-44d3-853c-95d0b799c870_1560205338.1920x1080at3000_h264.mp4#t=166",
+            "title": "Sehen Sie sich das Demo-Video an.",
+            "contentType": "video/mp4"
+          }
+        ]
+      },
+      {
+       "id": "cp_sftp_iprange_add",
+        "title": "Hinzufügen von IP-Bereichen",
+        "description": "Definieren Sie IP-Bereiche, die Sie auf die Whitelist setzen möchten, im CIDR-Format, um sich mit Ihren SFTP-Servern zu verbinden.",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/de/campaign/kb/control-panel-sftp.html#IPBereicheaufdieWhitelistsetzen",
+            "title": "Erfahren Sie mehr über die Konfiguration von IP-Bereichen."
+          }
+        ]
+      },
+      {
+       "id": "cp_sftp_publicKey_add",
+        "title": "Hinzufügen von öffentlichen Schlüsseln",
+        "description": "Definieren Sie einen neuen öffentlichen Schlüssel für eine Instanz.",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/de/campaign/kb/control-panel-sftp.html#Schl%C3%BCsselverwaltung",
+            "title": "Erfahren Sie mehr über das Hinzufügen öffentlicher Schlüssel."
+          }
+        ]
+      },
+      {
+        "id": "cp_instancesettings_iprange",
+        "title": "Über IP-Whitelisting",
+        "description": "Verwalten Sie IP-Whitelists zum Zugriff auf Ihre Instanzen.",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/de/campaign/kb/control-panel-instance-settings.html#IPWhitelistingf%C3%BCrdenInstanzenzugriff",
+            "title": "Erfahren Sie mehr zum IP-Whitelisting, um Zugriff auf Instanzen zu gewährleisten."
+          },
+          {
+            "url": "https://images-tv.adobe.com/mpcv3/045cac99-f948-478e-ae04-f8c161dcb9e2_1568132508.1920x1080at3000_h264.mp4",
+            "title": "Sehen Sie sich das Demo-Video an.",
+            "contentType": "video/mp4"
+          }
+        ]
+      },
+      {
+        "id": "cp_instancesettings_urlpermissions",
+        "title": "Über URL-Genehmigungen",
+        "description": "Verwalten Sie die URLs, mit denen sich Ihre Adobe Campaign Instanzen verbinden können. Sie können URLs, auf die Ihre ausgewählte Instanz zugreifen kann ansehen, löschen oder hinzufügen.",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/de/campaign/kb/control-panel-instance-settings.html#URLGenehmigungen",
+            "title": "Erfahren Sie mehr über URL-Genehmigungen."
+          },
+          {
+            "url": "https://images-tv.adobe.com/mpcv3/91206a19-d9af-4b6a-8197-0d2810a78941_1563488165.1920x1080at3000_h264.mp4",
+            "title": "Sehen Sie sich das Demo-Video an.",
+            "contentType": "video/mp4"
+          }
+        ]
+      },
+      {
+        "id": "cp_instancesettings_instancedetails",
+        "title": "Über Instanzen-Details",
+        "description": "Greifen Sie auf detailierte Informationen zu Ihren Adobe Campaign Instanzen zu: Typen, Namen, Build-Informationen und eventuell Empfehlungen zum Upgrade Ihrer Instanzen.",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/de/campaign/kb/control-panel-instance-settings.html#DetailsderInstanz",
+            "title": "Erfahren Sie mehr zu Instanzendetails."
+          },
+          {
+            "url": "https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html",
+            "title": "Lesen Sie die aktuellsten Versionshinweise zu Campaign Classic."
+          },
+          {
+            "url": "https://docs.adobe.com/content/help/de-DE/campaign-standard/using/release-notes/release-notes.translate.html",
+            "title": "Lesen Sie die aktuellsten Versionshinweise zu Campaign Standard"
+          },
+          {
+            "url": "https://docs.adobe.com/content/help/en/campaign-classic/using/monitoring-campaign-classic/updating-adobe-campaign/introduction.html",
+            "title": "Erfahren Sie mehr zum Upgrade von Campaign."
+          }
+        ]
+      },
+      {
+        "id": "cp_instancesettings_iprange_add",
+        "title": "Hinzufügen von IP-Bereichen",
+        "description": "Definieren Sie IP-Bereiche, die Sie auf die Whitelist setzen möchten, im CIDR-Format, um sich mit Ihren Instanzen zu verbinden.",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/de/campaign/kb/control-panel-instance-settings.html#IPWhitelistingf%C3%BCrdenInstanzenzugriff",
+            "title": "Erfahren Sie mehr über das IP-Whitelisting für den Zugriff auf Instanzen."
+          }
+        ]
+      },
+      {
+        "id": "cp_instancesettings_url_add",
+        "title": "Hinzufügen von URLs",
+        "description": "Fügen Sie URLs hinzu, um die Verbindung mit Ihrer Campaign Instanz zu ermöglichen.",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/de/campaign/kb/control-panel-instance-settings.html#URLGenehmigungen",
+            "title": "Erfahren Sie mehr über die Verwaltung von URL-Genehmigungen."
+          }
+        ]
+      },
+      {
+        "id": "cp_certificate_management",
+        "title": "Über Sub-Domains und SSL-Zertifikate",
+        "description": "Überwachen Sie Ihre Sub-Domains und SSL-Zertifikate und starten Sie den Prozess zur Zertifikaterneuerung.",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/de/campaign/kb/control-panel-subdomains-certificates.html",
+            "title": "Erfahren Sie mehr über Sub-Domains und Zertifikate."
+          },
+          {
+            "url": "https://images-tv.adobe.com/mpcv3/c32a9559-4c0f-437c-8509-f7c0f2a2a952_1566359776.1920x1080at3000_h264.mp4",
+            "title": "Sehen Sie sich das Demo-Video an."
+          }
+        ]
+      },
+      {
+        "id": "cp_certificate_details",
+        "title": "Details zu Zertifikaten",
+        "description": "Rufen Sie detaillierte Informationen zu Zertifikaten auf und starten Sie den Erneuerungsprozess.",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/de/campaign/kb/control-panel-subdomains-certificates.html",
+            "title": "Erfahren Sie mehr über Zertifikatdetails"
+          }
+        ]
+      }
+    ]
+  }
+}
