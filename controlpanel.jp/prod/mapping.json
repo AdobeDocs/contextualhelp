@@ -1,0 +1,198 @@
+{
+  "mapping": {
+    "product": "controlPanel",
+    "langage": "ja-JP",
+    "generationDate": "10_17_2019",
+    "version": "prod",
+    "entry": [
+      {
+        "id": "cp_overview",
+        "title": "コントロールパネルについて",
+        "description": "コントロールパネルホームページから、Campaign インスタンスで実行できるすべてのアクションにアクセスできます。",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/jp/campaign/kb/control-panel-overview.html",
+            "title": "コントロールパネルの詳細情報"
+          },
+          {
+            "url": "https://helpx.adobe.com/jp/campaign/kb/control-panel-access.html",
+            "title": "アクセス権限管理の詳細情報"
+          }
+        ]
+      },
+      {
+        "id": "cp_storage",
+        "title": "ストレージ容量について",
+        "description": "このタブでは、SFTP サーバーのストレージ容量および使用状況の情報を表示できます。アクセス権のある SFTP サーバーのみがここに表示されます。他の SFTP サーバーへのアクセス権をリクエストするには、管理者にお問い合わせください。",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/jp/campaign/kb/control-panel-sftp.html#SFTPストレージ管理",
+            "title": "SFTP ストレージ管理の詳細情報"
+          },
+          {
+            "url": "https://images-tv.adobe.com/mpcv3/8a977e03-d76c-44d3-853c-95d0b799c870_1560205338.1920x1080at3000_h264.mp4",
+            "title": "デモビデオを見る",
+            "contentType": "video/mp4"
+          }
+        ]
+      },
+      {
+        "id": "cp_ip_whitelist",
+        "title": "IP ホワイトリストについて",
+        "description": "このタブでは、SFTP サーバーへの接続を確立するための IP 範囲をホワイトリストに登録できます。アクセス権のある SFTP サーバーのみがここに表示されます。他の SFTP サーバーへのアクセス権をリクエストするには、管理者にお問い合わせください。",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/jp/campaign/kb/control-panel-sftp.html#IP範囲のホワイトリスト登録",
+            "title": "SFTP サーバーに接続するための IP ホワイトリストの詳細情報"
+          },
+          {
+            "url": "https://images-tv.adobe.com/mpcv3/8a977e03-d76c-44d3-853c-95d0b799c870_1560205338.1920x1080at3000_h264.mp4#t=98",
+            "title": "デモビデオを見る",
+            "contentType": "video/mp4"
+          }
+        ]
+      },
+      {
+        "id": "cp_key_management",
+        "title": "鍵管理について",
+        "description": "このタブでは、公開鍵を管理できます。",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/jp/campaign/kb/control-panel-sftp.html#鍵の管理",
+            "title": "公開鍵管理の詳細情報"
+          },
+          {
+            "url": "https://images-tv.adobe.com/mpcv3/8a977e03-d76c-44d3-853c-95d0b799c870_1560205338.1920x1080at3000_h264.mp4#t=166",
+            "title": "デモビデオを見る",
+            "contentType": "video/mp4"
+          }
+        ]
+      },
+      {
+        "id": "cp_sftp_iprange_add",
+        "title": "新しい IP 範囲を追加",
+        "description": "SFTP サーバーに接続するためにホワイトリストに登録する IP 範囲（CIDR 形式）を定義します。",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/jp/campaign/kb/control-panel-sftp.html#IP範囲のホワイトリスト登録",
+            "title": "IP 範囲設定の詳細情報"
+          }
+        ]
+      },
+      {
+        "id": "cp_sftp_publicKey_add",
+        "title": "新しい公開鍵を追加",
+        "description": "インスタンスに対して新しい公開鍵を定義します。",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/jp/campaign/kb/control-panel-sftp.html#鍵の管理",
+            "title": "新しい公開鍵を追加する方法の詳細情報"
+          }
+        ]
+      },
+      {
+        "id": "cp_instancesettings_iprange",
+        "title": "IP ホワイトリストについて",
+        "description": "インスタンスにアクセスするための IP ホワイトリストを管理します。",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/jp/campaign/kb/control-panel-instance-settings.html#インスタンスのアクセス用にIPをホワイトリストに登録",
+            "title": "インスタンスアクセス用の IP ホワイトリストの詳細情報"
+          },
+          {
+            "url": "https://images-tv.adobe.com/mpcv3/045cac99-f948-478e-ae04-f8c161dcb9e2_1568132508.1920x1080at3000_h264.mp4",
+            "title": "デモビデオを見る",
+            "contentType": "video/mp4"
+          }
+        ]
+      },
+      {
+        "id": "cp_instancesettings_urlpermissions",
+        "title": "URL へのアクセス権限について",
+        "description": "Adobe Campaign インスタンスが接続できる URL を管理します。以下に選択したインスタンスが接続できる URL を表示、追加および削除できます。",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/jp/campaign/kb/control-panel-instance-settings.html#URLへのアクセス権限",
+            "title": "URL へのアクセス権限の詳細情報"
+          },
+          {
+            "url": "https://images-tv.adobe.com/mpcv3/91206a19-d9af-4b6a-8197-0d2810a78941_1563488165.1920x1080at3000_h264.mp4",
+            "title": "デモビデオを見る",
+            "contentType": "video/mp4"
+          }
+        ]
+      },
+      {
+        "id": "cp_instancesettings_instancedetails",
+        "title": "インスタンスの詳細について",
+        "description": "Adobe Campaign インスタンスの詳細（タイプ、名前、ビルド情報および利用可能な推奨アップグレード）を表示します。",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/jp/campaign/kb/control-panel-instance-settings.html#インスタンスの詳細",
+            "title": "インスタンスの詳細情報"
+          },
+          {
+            "url": "https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html",
+            "title": "Campaign Classic リリースノートを読む"
+          },
+          {
+            "url": "https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html",
+            "title": "Campaign Standard リリースノートを読む"
+          },
+          {
+            "url": "https://docs.adobe.com/content/help/en/campaign-classic/using/monitoring-campaign-classic/updating-adobe-campaign/introduction.html",
+            "title": "Campaign をアップグレードする方法の詳細情報"
+          }
+        ]
+      },
+      {
+        "id": "cp_instancesettings_iprange_add",
+        "title": "新しい IP 範囲を追加",
+        "description": "インスタンスに接続するためにホワイトリストに登録する IP 範囲（CIDR 形式）を定義します。",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/jp/campaign/kb/control-panel-instance-settings.html#インスタンスのアクセス用にIPをホワイトリストに登録",
+            "title": "インスタンスアクセス用の IP ホワイトリストの詳細情報"
+          }
+        ]
+      },
+      {
+        "id": "cp_instancesettings_url_add",
+        "title": "新しい URL を追加",
+        "description": "Campaign インスタンスに接続できる URL を追加します。",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/jp/campaign/kb/control-panel-instance-settings.html#URLへのアクセス権限",
+            "title": "URL へのアクセス権限管理の詳細情報"
+          }
+        ]
+      },
+      {
+        "id": "cp_certificate_management",
+        "title": "サブドメインおよび SSL 証明書について",
+        "description": "サブドメインおよび SSL 証明書を監視し、証明書の更新プロセスを開始します。",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/jp/campaign/kb/control-panel-subdomains-certificates.html",
+            "title": "サブドメインおよび証明書の詳細情報"
+          },
+          {
+            "url": "https://images-tv.adobe.com/mpcv3/c32a9559-4c0f-437c-8509-f7c0f2a2a952_1566359776.1920x1080at3000_h264.mp4",
+            "title": "デモビデオを見る"
+          }
+        ]
+      },
+      {
+        "id": "cp_certificate_details",
+        "title": "証明書の詳細",
+        "description": "証明書に関する詳細を取得し、更新プロセスを開始します。",
+        "link": [
+          {
+            "url": "https://helpx.adobe.com/jp/campaign/kb/control-panel-subdomains-certificates.html",
+            "title": "証明書の詳細情報"
+          }
+        ]
+      }
+    ]
+  }
+}
